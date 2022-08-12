@@ -4,9 +4,9 @@ const HOST = "localhost";
 const PORT = "10000";
 
 const json_data = {
-    "nama" : "Putri Regita Saptaningtyas",
+    "nama" : "Hidayatur Rahman",
     "nim" : 202410101057,
-    "alamat" : "Bayuwangi"
+    "alamat" : "Bondowoso"
 }
 
 const requestListener = function(req, res) {
